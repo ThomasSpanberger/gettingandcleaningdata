@@ -1,0 +1,18 @@
+---
+title: "Readme"
+output: html_document
+---
+
+
+the run_analysis script is used to calculate the means of a data set collected on 30 subjects performing activities of daily living while carrying a waist-mounted smartphone
+
+The dataset, and further information regarding the data, can be found at: 
+http://archive.ics.uci.edu/ml/machine-learning-databases/00240/
+
+This script merges the data found in the dataset, and calculates the mean for every subject in this study for 6 different kinds of activities
+
+The data set has to be extracted to the working directory, as defined in R, for this script to work
+there are two files acompanying this readme: -another readme discussing the study, and the file features_info, describing the variables
+
+Kind regards
+Thomas
