@@ -3,6 +3,7 @@ title: "Readme"
 output: html_document
 ---
 
+to use this file, source the run_analysis file, then simply type runanalysis() in your console
 
 the run_analysis script is used to calculate the means of a data set collected on 30 subjects performing activities of daily living while carrying a waist-mounted smartphone
 
